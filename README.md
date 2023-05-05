@@ -8,18 +8,18 @@
   <th>Статус проекта</th>
 </tr> 
 <tr>
-  <td><a href  = "https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/2_data_preprocessing">Исследование 
+  <td><a href="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/6_recommendation_of_tariffs">Классификаиция 
+клиентов телеком компании</a></td>
+  <td>На основе данных предложить клиенту тариф.</td>
+  <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
+  <td>Завершен</td>
+</tr>
+<tr>
+  <td><a href  = "https://github.com/Brokolero/Portfolio/tree/main/protection_data">Исследование 
 надёжности заёмщиков — анализ банковских данных</a></td>
   <td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата 
 кредита в срок</td>
   <td>Pandas, Python, предобработка данных</td>
-  <td>Завершен</td>
-</tr>
-<tr>
-  <td><a href="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/3_research_for_the_sale_of_apartaments">Продажа 
-квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
-  <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
-  <td>Python, Pandas, Matplotlib, Исследовательский анализ, визуализация даннных, предобработка данных</td>
   <td>Завершен</td>
 </tr>
 <tr>
@@ -41,13 +41,6 @@
 фотографий покупателя</a></td>
   <td>Определение возраста по фотографии</td>
   <td>Python,Keras</td>
-  <td>Завершен</td>
-</tr>
-<tr>
-  <td><a href="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/6_recommendation_of_tariffs">Классификаиция 
-клиентов телеком компании</a></td>
-  <td>На основе данных предложить клиенту тариф.</td>
-  <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
   <td>Завершен</td>
 </tr>
 <tr>
