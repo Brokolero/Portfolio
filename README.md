@@ -108,11 +108,5 @@
   <td>Завершен</td>
 </tr>
 <tr>
-  <td><a href ="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/15_final_project">Финальный 
-проект</a></td>
-  <td>Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, 
-ему будут предложены промокоды и специальные условия.</td>
-  <td>Python,Pandas,Matplotlib,Scikit-learn, исследовательский анализ, визуализация данных, lightgbm, catboost</td>
-  <td>Завершен</td>
-</tr>
+
 </table>
