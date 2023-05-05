@@ -6,14 +6,14 @@
   <th>Задачи проекта</th>
   <th>Навыки и инструменты</th>
   <th>Статус проекта</th>
-</tr> 
-<tr>
-  <td><a href="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/6_recommendation_of_tariffs">Классификаиция 
-клиентов телеком компании</a></td>
-  <td>На основе данных предложить клиенту тариф.</td>
-  <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
-  <td>Завершен</td>
 </tr>
+<tr>
+  <td><a href ="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/7_customer_outflow">Прогнозирование 
+оттока клиента Банка</a></td>
+  <td>На основе данных из банка определить клиент, который может уйти</td>
+  <td>Python,Pandas,Matplotlib,Scikit-learn</td>
+  <td>Завершен</td>
+</tr> 
 <tr>
   <td><a href  = "https://github.com/Brokolero/Portfolio/tree/main/protection_data">Исследование 
 надёжности заёмщиков — анализ банковских данных</a></td>
@@ -44,10 +44,10 @@
   <td>Завершен</td>
 </tr>
 <tr>
-  <td><a href ="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/7_customer_outflow">Прогнозирование 
-оттока клиента Банка</a></td>
-  <td>На основе данных из банка определить клиент, который может уйти</td>
-  <td>Python,Pandas,Matplotlib,Scikit-learn</td>
+  <td><a href="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/6_recommendation_of_tariffs">Классификаиция 
+клиентов телеком компании</a></td>
+  <td>На основе данных предложить клиенту тариф.</td>
+  <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
   <td>Завершен</td>
 </tr>
 <tr>
